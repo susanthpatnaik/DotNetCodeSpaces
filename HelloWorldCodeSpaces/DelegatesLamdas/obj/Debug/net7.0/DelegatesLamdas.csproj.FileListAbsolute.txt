@@ -1,0 +1,15 @@
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/DelegatesLamdas/obj/Debug/net7.0/DelegatesLamdas.csproj.AssemblyReference.cache
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/DelegatesLamdas/obj/Debug/net7.0/DelegatesLamdas.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/DelegatesLamdas/obj/Debug/net7.0/DelegatesLamdas.AssemblyInfoInputs.cache
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/DelegatesLamdas/obj/Debug/net7.0/DelegatesLamdas.AssemblyInfo.cs
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/DelegatesLamdas/obj/Debug/net7.0/DelegatesLamdas.csproj.CoreCompileInputs.cache
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/DelegatesLamdas/bin/Debug/net7.0/DelegatesLamdas
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/DelegatesLamdas/bin/Debug/net7.0/DelegatesLamdas.deps.json
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/DelegatesLamdas/bin/Debug/net7.0/DelegatesLamdas.runtimeconfig.json
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/DelegatesLamdas/bin/Debug/net7.0/DelegatesLamdas.dll
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/DelegatesLamdas/bin/Debug/net7.0/DelegatesLamdas.pdb
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/DelegatesLamdas/obj/Debug/net7.0/DelegatesLamdas.dll
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/DelegatesLamdas/obj/Debug/net7.0/refint/DelegatesLamdas.dll
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/DelegatesLamdas/obj/Debug/net7.0/DelegatesLamdas.pdb
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/DelegatesLamdas/obj/Debug/net7.0/DelegatesLamdas.genruntimeconfig.cache
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/DelegatesLamdas/obj/Debug/net7.0/ref/DelegatesLamdas.dll
