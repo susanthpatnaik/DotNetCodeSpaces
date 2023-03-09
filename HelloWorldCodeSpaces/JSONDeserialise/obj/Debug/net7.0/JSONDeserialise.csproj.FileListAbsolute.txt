@@ -1,0 +1,15 @@
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/JSONDeserialise/obj/Debug/net7.0/JSONDeserialise.csproj.AssemblyReference.cache
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/JSONDeserialise/obj/Debug/net7.0/JSONDeserialise.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/JSONDeserialise/obj/Debug/net7.0/JSONDeserialise.AssemblyInfoInputs.cache
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/JSONDeserialise/obj/Debug/net7.0/JSONDeserialise.AssemblyInfo.cs
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/JSONDeserialise/obj/Debug/net7.0/JSONDeserialise.csproj.CoreCompileInputs.cache
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/JSONDeserialise/bin/Debug/net7.0/JSONDeserialise
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/JSONDeserialise/bin/Debug/net7.0/JSONDeserialise.deps.json
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/JSONDeserialise/bin/Debug/net7.0/JSONDeserialise.runtimeconfig.json
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/JSONDeserialise/bin/Debug/net7.0/JSONDeserialise.dll
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/JSONDeserialise/bin/Debug/net7.0/JSONDeserialise.pdb
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/JSONDeserialise/obj/Debug/net7.0/JSONDeserialise.dll
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/JSONDeserialise/obj/Debug/net7.0/refint/JSONDeserialise.dll
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/JSONDeserialise/obj/Debug/net7.0/JSONDeserialise.pdb
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/JSONDeserialise/obj/Debug/net7.0/JSONDeserialise.genruntimeconfig.cache
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/JSONDeserialise/obj/Debug/net7.0/ref/JSONDeserialise.dll

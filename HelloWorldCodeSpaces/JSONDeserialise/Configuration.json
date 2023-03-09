@@ -1,0 +1,30 @@
+{
+    "FT521": {
+      "address": 0,
+      "type": "AI",
+      "units": "lpm",
+      "scaling": {
+        "display_min": 0,
+        "display_max": 4,
+        "display_resolution": 0.1,
+        "data_multiplier": 4000,
+        "data_offset": 4000
+      },
+      "device": "Device1",
+      "default": 1
+    },
+    "FT522": {
+      "address": 1,
+      "type": "AI",
+      "units": "lpm",
+      "scaling": {
+        "display_min": 0,
+        "display_max": 4,
+        "display_resolution": 0.1,
+        "data_multiplier": 4000,
+        "data_offset": 4000
+      },
+      "device": "Device1",
+      "default": 1
+    }
+  }

@@ -1,36 +1,27 @@
 ﻿using System;
 
 
+
 namespace DelegatesLamdas
 {
     class CheckingDelegates
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello WOrld");
-            MathOp MathOperation = sub;
+            
+            Calculations.MathOp MathOperation = Calculations.sub;
 
-            CalculatePrint(5,6,MathOperation) ;
+            //We can also send the instance as delegate or function
+            //Console.WriteLine(Calculations.CalculatePrint(5,6,MathOperation));
+
+            Console.WriteLine(Calculations.CalculatePrint(5,6,Calculations.sub));
+
+
+            //using lamdas
+            Console.WriteLine(Calculations.CalculatePrint(5,5,(x,y)=> x+y)); 
+            Console.WriteLine(Calculations.CalculatePrint(5,5,(x,y)=> x*y)); 
         }
 
-        static void CalculatePrint(int x, int y, MathOp f)
-        {
-            Console.WriteLine(f(x,y));
-        }
-
-
-
-        public static int add(int a, int b)
-        {
-            return a+b;
-        }
-
-        public static int sub(int a, int b)
-        {
-            return a-b;
-        }
-
-        delegate int MathOp(int x, int y);
     }
 
     
