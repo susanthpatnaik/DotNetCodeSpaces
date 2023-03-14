@@ -1,0 +1,15 @@
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/AsyncAwait/bin/Debug/net7.0/AsyncAwait
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/AsyncAwait/bin/Debug/net7.0/AsyncAwait.deps.json
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/AsyncAwait/bin/Debug/net7.0/AsyncAwait.runtimeconfig.json
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/AsyncAwait/bin/Debug/net7.0/AsyncAwait.dll
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/AsyncAwait/bin/Debug/net7.0/AsyncAwait.pdb
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/AsyncAwait/obj/Debug/net7.0/AsyncAwait.csproj.AssemblyReference.cache
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/AsyncAwait/obj/Debug/net7.0/AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/AsyncAwait/obj/Debug/net7.0/AsyncAwait.AssemblyInfoInputs.cache
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/AsyncAwait/obj/Debug/net7.0/AsyncAwait.AssemblyInfo.cs
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/AsyncAwait/obj/Debug/net7.0/AsyncAwait.csproj.CoreCompileInputs.cache
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/AsyncAwait/obj/Debug/net7.0/AsyncAwait.dll
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/AsyncAwait/obj/Debug/net7.0/refint/AsyncAwait.dll
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/AsyncAwait/obj/Debug/net7.0/AsyncAwait.pdb
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/AsyncAwait/obj/Debug/net7.0/AsyncAwait.genruntimeconfig.cache
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/AsyncAwait/obj/Debug/net7.0/ref/AsyncAwait.dll

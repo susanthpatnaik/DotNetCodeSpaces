@@ -1,0 +1,15 @@
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/Generics/bin/Debug/net7.0/Generics
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/Generics/bin/Debug/net7.0/Generics.deps.json
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/Generics/bin/Debug/net7.0/Generics.runtimeconfig.json
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/Generics/bin/Debug/net7.0/Generics.dll
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/Generics/bin/Debug/net7.0/Generics.pdb
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/Generics/obj/Debug/net7.0/Generics.csproj.AssemblyReference.cache
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/Generics/obj/Debug/net7.0/Generics.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/Generics/obj/Debug/net7.0/Generics.AssemblyInfoInputs.cache
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/Generics/obj/Debug/net7.0/Generics.AssemblyInfo.cs
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/Generics/obj/Debug/net7.0/Generics.csproj.CoreCompileInputs.cache
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/Generics/obj/Debug/net7.0/Generics.dll
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/Generics/obj/Debug/net7.0/refint/Generics.dll
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/Generics/obj/Debug/net7.0/Generics.pdb
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/Generics/obj/Debug/net7.0/Generics.genruntimeconfig.cache
+/workspaces/DotNetCodeSpaces/HelloWorldCodeSpaces/Generics/obj/Debug/net7.0/ref/Generics.dll
