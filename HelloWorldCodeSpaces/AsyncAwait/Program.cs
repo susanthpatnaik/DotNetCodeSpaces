@@ -8,6 +8,7 @@ namespace asyncawait
         public static void Main(string[] args)
         {
             Console.WriteLine("hello World");
+            
             Task.Run(longFunction);
             shortFunction();
         }
